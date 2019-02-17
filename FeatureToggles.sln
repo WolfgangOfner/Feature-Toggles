@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeatureToggles", "FeatureToggles\FeatureToggles.csproj", "{F4951DC3-0488-40C1-8B29-4F8FD5F0525D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4951DC3-0488-40C1-8B29-4F8FD5F0525D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4951DC3-0488-40C1-8B29-4F8FD5F0525D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4951DC3-0488-40C1-8B29-4F8FD5F0525D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4951DC3-0488-40C1-8B29-4F8FD5F0525D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B70C147E-478A-4F0B-8B4F-B153B2C3AF10}
+	EndGlobalSection
+EndGlobal
